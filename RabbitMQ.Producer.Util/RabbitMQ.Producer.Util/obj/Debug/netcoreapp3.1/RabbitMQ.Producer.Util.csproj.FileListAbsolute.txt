@@ -1,0 +1,16 @@
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.exe
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.deps.json
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.runtimeconfig.json
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.runtimeconfig.dev.json
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.dll
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.pdb
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.csprojAssemblyReference.cache
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.AssemblyInfoInputs.cache
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.AssemblyInfo.cs
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.csproj.CoreCompileInputs.cache
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.csproj.CopyComplete
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.dll
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.pdb
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Producer.Util\RabbitMQ.Producer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Producer.Util.genruntimeconfig.cache

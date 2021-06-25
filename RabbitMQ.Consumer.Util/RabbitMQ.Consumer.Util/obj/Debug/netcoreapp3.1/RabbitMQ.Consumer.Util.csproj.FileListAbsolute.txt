@@ -1,0 +1,15 @@
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.AssemblyInfoInputs.cache
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.AssemblyInfo.cs
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.csproj.CoreCompileInputs.cache
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.exe
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.deps.json
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.runtimeconfig.json
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.runtimeconfig.dev.json
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.dll
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.pdb
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.csproj.CopyComplete
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.dll
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.pdb
+C:\Users\aakash\source\repos\RabbitMQ_Communication\RabbitMQ.Consumer.Util\RabbitMQ.Consumer.Util\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.Util.genruntimeconfig.cache
